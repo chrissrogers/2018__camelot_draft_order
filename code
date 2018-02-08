@@ -21,3 +21,5 @@ loop do
   puts selection
   teams.delete selection
 end
+
+puts 'Johnson is a bitch 👻'
